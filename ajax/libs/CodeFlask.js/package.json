@@ -1,6 +1,6 @@
 {
   "name": "CodeFlask.js",
-  "version": "1.2.1",
+  "version": "1.4.0",
   "filename": "codeflask.min.js",
   "homepage": "https://kazzkiq.github.io/CodeFlask/",
   "repository": {
@@ -22,7 +22,7 @@
       {
         "basePath": "build",
         "files": [
-          "**/*"
+          "**/!(*.html)"
         ]
       },
       {
